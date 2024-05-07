@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Tobias
 
-Fullstack Software Engineer with 4+ years of expertise in software development. Passionate about driving innovation and improving processes through scalable and maintainable software solutions.
+Fullstack Software Engineer with 4+ years of expertise in software development. Passionate about mentorship, driving innovation and improving processes through scalable and maintainable software solutions.
 
 ## 🤵 About Me
 
